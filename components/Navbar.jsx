@@ -1,5 +1,4 @@
 "use client";
-import { useClerk } from "@clerk/nextjs";
 import { Search, ShoppingCart } from "lucide-react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
